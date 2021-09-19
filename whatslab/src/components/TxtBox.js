@@ -38,7 +38,8 @@ const MsgEnviada = styled.p `
     background-color: #8FCACA;
     align-self: flex-start; 
     background-color: #55CBCD;
-    color: white   
+    color: white;
+   
 
 `
 const BoxFormularios = styled.div` 
